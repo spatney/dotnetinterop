@@ -1,0 +1,7 @@
+cpp/CMakeFiles
+*.cmake
+CMakeCache.txt
+*.dylib
+Makefile
+bin/
+obj/
