@@ -7,7 +7,7 @@ namespace dotnetinterop
     class Program
     {
         [SuppressUnmanagedCodeSecurity]
-        [DllImport(@"./cpp/libsum")]
+        [DllImport(@"./cpp/lib/libsum")]
         public static extern int Sum(int a, int b);
 
         static void Main(string[] args)

@@ -1,7 +1,4 @@
-cpp/CMakeFiles
-*.cmake
-CMakeCache.txt
-*.dylib
-Makefile
+cpp/lib/*
+!cpp/lib/CMakeLists.txt
 bin/
 obj/
