@@ -1,4 +1,4 @@
-# Demo for Dotnet inter-opp with CPP
+# Demo for Dotnet interop with CPP
 
 ## Build CPP
 
