@@ -2,7 +2,7 @@
 
 ## Build CPP
 
-From CPP folder
+From cpp/lib folder
 ```
 cmake .
 make
