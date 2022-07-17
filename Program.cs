@@ -14,7 +14,7 @@ namespace dotnetinterop
         {
             var sum = Sum(Int32.Parse(args[0]), Int32.Parse(args[1]));
 
-            Console.WriteLine($"SUM: {sum}");
+            Console.WriteLine($"{args[0]} + {args[1]} = {sum}");
         }
     }
 }
